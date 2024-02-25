@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a senior year undergraduate student in ECUST
+- I'm a senior year undergraduate student in East China University of Science and Technology
 - I'm maintaining Gitea, a painless self-hosted all-in-one software development service
 
 ### Stats on GitHub
