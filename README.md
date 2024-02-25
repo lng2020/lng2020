@@ -2,7 +2,7 @@
 
 - I'm a senior year undergraduate student at East China University of Science and Technology (ECUST)
 - I'm maintaining Gitea, a painless self-hosted all-in-one software development service
-- Familiar with Go, Know about C, C++, Python, Java, Rust
+- Familiar with Go, Know about C, C++, JavaScript, Python, Java, Rust
 
 ### Stats on GitHub
 
