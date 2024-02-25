@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- senior year undergraduate student in ECUST
-- familiar with Go
+- I'm a senior year undergraduate student in ECUST
+- I'm maintaining Gitea, a painless self-hosted all-in-one software development service
 
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lng2020&count_private=true&show_icons=true" alt="Who is lng2020" width="400px">
-</a>
+### Stats on GitHub
 
-![Go](https://img.shields.io/badge/-Golang-1D415E?style=flat-square&logo=Go&labelColor=3772A2&logoColor=FFDA4C)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zcy.dev/api?username=lng2020&show_icons=true&theme=dark&border_color=30363d">
+  <img alt="lng2020's GitHub Stats." src="https://github-readme-stats.zcy.dev/api?username=lng2020&show_icons=true&theme=default">
+</picture>
