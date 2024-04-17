@@ -1,6 +1,6 @@
 ### 👋 Hello!
 
-I'm Nanguan Lin and I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op)**
+I'm Nanguan Lin and I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op) in United States**
 
 **About Me:**
 
