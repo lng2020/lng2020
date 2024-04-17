@@ -1,8 +1,18 @@
-### Hi there 👋
+### 👋 Hello!
 
-- I'm a senior year undergraduate student at East China University of Science and Technology (ECUST)
-- I'm maintaining Gitea, a painless self-hosted all-in-one software development service
-- Familiar with Go, Know about C, C++, JavaScript, Python, Java, Rust
+I'm Nanguan Lin and I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op)**
+
+**About Me:**
+
+- 📘 **Education**: Currently completing my BSc in CS at ECUST. Enrolled for an MEng in ECE at UIUC.
+- 🔧 **Professional Experience**: I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git service.
+- 🎯 **Interests**: Full-stack development, DevOps, and cloud infrastructure
+
+**Technical Toolkit:**
+
+- **Programming Languages**: Familiar with Go; know about Python, JavaScript, Rust, C, C++, Java
+- **Frameworks & Libraries**: Gin, XORM, Vue.js, React.js, Next.js, Node.js, SpringBoot 
+- **DevOps & Tools**: Bash, Git, Docker, Kubernetes, GitHub Actions, Terraform, AWS
 
 ### Stats on GitHub
 
