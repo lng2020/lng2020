@@ -1,10 +1,10 @@
 ### 👋 Hello!
 
-I'm Nanguan Lin and I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op) in United States**
+I'm Nanguan Lin and I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op) in the United States**.  Feel free to contact me if you have any opportunities or questions.
 
 **About Me:**
 
-- 📘 **Education**: Currently completing my BSc in CS at ECUST. Enrolled for an MEng in ECE at UIUC.
+- 📘 **Education**: I am completing my BSc in CS at ECUST. Enrolled for an MEng in ECE at UIUC.
 - 🔧 **Professional Experience**: I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git service.
 - 🎯 **Interests**: Full-stack development, DevOps, and cloud infrastructure
 
