@@ -1,4 +1,4 @@
-### 👋 Hello!
+### Open to jobs!
 
 I'm Nanguan Lin and I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op) in the United States**.  Feel free to contact me if you have any opportunities or questions.
 
