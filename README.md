@@ -19,6 +19,6 @@ I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-o
 ### Stats on GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zcy.dev/api?username=lng2020&show_icons=true&theme=dark&border_color=30363d">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gray-eta-55.vercel.app/api?username=lng2020&show_icons=true&theme=dark&border_color=30363d">
   <img alt="lng2020's GitHub Stats." src="https://github-readme-stats.zcy.dev/api?username=lng2020&show_icons=true&theme=default">
 </picture>
