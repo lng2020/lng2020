@@ -6,7 +6,7 @@ I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-o
 
 **About Me:**
 
-- 📘 **Education**: I am completing my BSc in CS at ECUST. Enrolled for an MEng in ECE at UIUC.
+- 📘 **Education**: I have obtained my BSc in CS from ECUST and am now enrolled for an MEng in ECE at UIUC this fall.
 - 🔧 **Professional Experience**: I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git service.
 - 🎯 **Interests**: Full-stack development, DevOps, and cloud infrastructure
 
