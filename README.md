@@ -1,13 +1,13 @@
 ### Open to jobs!
 
-I'm actively seeking **an SDE internship for Summer 2025 or Fall 2025 (with co-op) in the United States**.  Feel free to contact me if you have any opportunities or questions.
+I'm graduating in May 2026, and actively seeking a full-time SDE role in the **United States**.  Feel free to contact me if you have any opportunities or questions.
 
 ### 👋 Hi, I'm Nanguan Lin
 
 **About Me:**
 
-- 📘 **Education**: I have obtained my BSc in CS from ECUST and am now enrolled for an MEng in ECE at UIUC this fall.
-- 🔧 **Professional Experience**: I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git service.
+- 📘 **Education**: I have obtained my BSc in CS from ECUST and am currently enrolled in my master's degree in computer engineering at UIUC.
+- 🔧 **Professional Experience**: I'm currently interning at [Boston Bioprocess, Inc](https://bostonbioprocess.com) to build the next generation of Lab Information Management System. In my spare time, I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git service.
 - 🎯 **Interests**: Full-stack development, DevOps, and cloud infrastructure
 
 **Technical Toolkit:**
