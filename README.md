@@ -7,7 +7,8 @@ I'm graduating in May 2026, and actively seeking a full-time SDE role in the **U
 **About Me:**
 
 - 📘 **Education**: I have obtained my BSc in CS from ECUST and am currently enrolled in my master's degree in computer engineering at UIUC.
-- 🔧 **Professional Experience**: I'm currently interning at [Boston Bioprocess, Inc](https://bostonbioprocess.com) to build the next generation of Lab Information Management System. In my spare time, I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git service.
+- 🔧 **Professional Experience**: I'm currently interning at [Boston Bioprocess, Inc](https://bostonbioprocess.com) to build the next generation of Lab Information Management System. In my spare time, I maintain [Gitea](https://gitea.com/), a comprehensive self-hosted Git ser
+- vice.
 - 🎯 **Interests**: Full-stack development, DevOps, and cloud infrastructure
 
 **Technical Toolkit:**
@@ -19,11 +20,11 @@ I'm graduating in May 2026, and actively seeking a full-time SDE role in the **U
 ### Stats on GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gray-eta-55.vercel.app/api?username=lng2020&show_icons=true&theme=dark&border_color=30363d">
-  <img alt="lng2020's GitHub Stats." src="https://github-readme-stats-gray-eta-55.vercel.app/api?username=lng2020&show_icons=true&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-gray-eta-55.vercel.app/api?username=nanguanlin6&show_icons=true&theme=dark&border_color=30363d">
+  <img alt="nanguanlin6's GitHub Stats." src="https://github-readme-stats-gray-eta-55.vercel.app/api?username=nanguanlin6&show_icons=true&theme=default">
 </picture>
 
-### Checkout my GitHub contributions from Mon Jan 01 2024! (powered by [my contribution summarizer](https://github.com/lng2020/contribution-summary))
+### Checkout my GitHub contributions from Mon Jan 01 2024! (powered by [my contribution summarizer](https://github.com/nanguanlin6/contribution-summary))
 - [gitea](https://github.com/go-gitea/gitea):
   - [Remove unused error in graceful manager](https://github.com/go-gitea/gitea/pull/29871), [Fix 500 when sorting the default project board](https://github.com/go-gitea/gitea/pull/29870), [Fix the wrong locale key of searching users](https://github.com/go-gitea/gitea/pull/29868), [Fix missing code in the user profile](https://github.com/go-gitea/gitea/pull/29865), [Fix user id column case](https://github.com/go-gitea/gitea/pull/29863), [Fix 500 when pushing release to an empty repo](https://github.com/go-gitea/gitea/pull/29554)
   - These contributions primarily focus on **bug fixes** and **code optimization** in the **Go-Gitea** project. They demonstrate my ability to identify and resolve issues related to **error handling**, **database operations**, and **user interface**. My work helps improve the project's **stability**, **usability**, and **maintainability**.
